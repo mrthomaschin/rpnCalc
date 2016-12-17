@@ -1,0 +1,4 @@
+﻿  CalcDlg.cpp
+e:\projects\calc\calc\calcdlg.cpp(368): warning C4018: '<': signed/unsigned mismatch
+  Calc.vcxproj -> E:\Projects\Calc\Debug\Calc.exe
+  Calc.vcxproj -> E:\Projects\Calc\Debug\Calc.pdb (Partial PDB)
